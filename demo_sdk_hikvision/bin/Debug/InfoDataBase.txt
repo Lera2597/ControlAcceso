@@ -1,0 +1,5 @@
+Ip_server=192.168.1.154
+Database=control_acceso
+User=postgres
+Password=roanet2017
+Port=5432

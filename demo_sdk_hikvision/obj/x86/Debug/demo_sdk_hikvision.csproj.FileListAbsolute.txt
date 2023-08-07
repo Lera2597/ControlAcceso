@@ -1,0 +1,4 @@
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\obj\x86\Debug\demo_sdk_hikvision.Form1.resources
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\obj\x86\Debug\demo_sdk_hikvision.Properties.Resources.resources
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\obj\x86\Debug\demo_sdk_hikvision.csproj.GenerateResource.cache
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\obj\x86\Debug\demo_sdk_hikvision.csproj.CoreCompileInputs.cache

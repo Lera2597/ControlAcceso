@@ -1,0 +1,48 @@
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.Form1.resources
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.Properties.Resources.resources
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.csproj.GenerateResource.cache
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.csproj.CoreCompileInputs.cache
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\bin\Debug\demo_sdk_hikvision.exe.config
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\bin\Debug\demo_sdk_hikvision.exe
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\bin\Debug\demo_sdk_hikvision.pdb
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.exe
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.pdb
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.csprojAssemblyReference.cache
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.eventos.resources
+D:\visualStudio\demo_sdk_facial_hikvision\demo_sdk_hikvision\demo_sdk_hikvision\bin\Debug\demo_sdk_hikvision.exe.config
+D:\visualStudio\demo_sdk_facial_hikvision\demo_sdk_hikvision\demo_sdk_hikvision\bin\Debug\demo_sdk_hikvision.exe
+D:\visualStudio\demo_sdk_facial_hikvision\demo_sdk_hikvision\demo_sdk_hikvision\bin\Debug\demo_sdk_hikvision.pdb
+D:\visualStudio\demo_sdk_facial_hikvision\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.csproj.AssemblyReference.cache
+D:\visualStudio\demo_sdk_facial_hikvision\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.eventos.resources
+D:\visualStudio\demo_sdk_facial_hikvision\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.Form1.resources
+D:\visualStudio\demo_sdk_facial_hikvision\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.Properties.Resources.resources
+D:\visualStudio\demo_sdk_facial_hikvision\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.csproj.GenerateResource.cache
+D:\visualStudio\demo_sdk_facial_hikvision\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.csproj.CoreCompileInputs.cache
+D:\visualStudio\demo_sdk_facial_hikvision\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.exe
+D:\visualStudio\demo_sdk_facial_hikvision\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.pdb
+C:\Users\LERA\Desktop\demo_sdk_hikvision\demo_sdk_hikvision\bin\Debug\demo_sdk_hikvision.exe.config
+C:\Users\LERA\Desktop\demo_sdk_hikvision\demo_sdk_hikvision\bin\Debug\demo_sdk_hikvision.exe
+C:\Users\LERA\Desktop\demo_sdk_hikvision\demo_sdk_hikvision\bin\Debug\demo_sdk_hikvision.pdb
+C:\Users\LERA\Desktop\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.csproj.AssemblyReference.cache
+C:\Users\LERA\Desktop\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.eventos.resources
+C:\Users\LERA\Desktop\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.Form1.resources
+C:\Users\LERA\Desktop\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.Properties.Resources.resources
+C:\Users\LERA\Desktop\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.csproj.GenerateResource.cache
+C:\Users\LERA\Desktop\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.csproj.CoreCompileInputs.cache
+C:\Users\LERA\Desktop\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.exe
+C:\Users\LERA\Desktop\demo_sdk_hikvision\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.pdb
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\demo_sdk_hikvision.exe.config
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\demo_sdk_hikvision.exe
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\demo_sdk_hikvision.pdb
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.csproj.AssemblyReference.cache
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.csproj.SuggestedBindingRedirects.cache
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.Form1.resources
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.Properties.Resources.resources
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.csproj.GenerateResource.cache
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.csproj.CoreCompileInputs.cache
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.exe
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.pdb
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\npgsql.dll
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\Mono.Security.dll
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.csproj.CopyComplete
+C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\obj\Debug\demo_sdk_hikvision.eventos.resources

@@ -1,0 +1,79 @@
+[2023-08-07 14:51:43.389][INF] The COM:HCCoreBase ver is 1.0.0.3, 2019_10_29. Async:1.
+[2023-08-07 14:51:43.389][INF] The COM:Core ver is 6.1.4.6, 2019_12_20. Async:1.
+[2023-08-07 14:51:43.390][INF] This HCNetSDK ver is 6.1.4.6 Ver 2019_12_20.
+[2023-08-07 14:52:08.883][INF] Login dev 192.0.0.64:8000.
+[2023-08-07 14:52:08.886][ERR] Link_CreateLink, Start Failed, enumLinkType[0]
+[2023-08-07 14:52:08.899][INF] LogonDev1 in[192.0.0.64:8000]
+[2023-08-07 14:52:08.917][INF] CCoreGlobalCtrlBase::LoadDSo, HPR_LoadDSo Succ, Path[C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\HCNetSDK\libeay32.dll], hHandleRet[1720975360]
+[2023-08-07 14:52:08.917][DBG] Load libeay32.dll SUCC, Real Path[C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\HCNetSDK\libeay32.dll]
+[2023-08-07 14:52:08.922][INF] CCoreGlobalCtrlBase::LoadDSo, HPR_LoadDSo Succ, Path[C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\HCNetSDK\ssleay32.dll], hHandleRet[1719664640]
+[2023-08-07 14:52:08.922][DBG] Load ssleay32.dll SUCC, Real Path[C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\HCNetSDK\ssleay32.dll]
+[2023-08-07 14:52:08.926][ERR] SSLTRANSAPI::IsAllAPILoaded, OpenSSL_version Unload
+[2023-08-07 14:52:08.926][ERR] OpenSSL, Not All Function Loaded!
+[2023-08-07 14:52:08.936][INF] SSLTRANSAPI::PrintVersion, SSLeay_version info [OpenSSL 1.0.2t  10 Sep 2019]
+[2023-08-07 14:52:08.936][INF] CSSLTrans::SSLCtxInit, dwSSLVersion[0], m_fnClientMethodV23
+[2023-08-07 14:52:09.952][ERR] SSLTRANSAPI::IsAllAPILoaded, OpenSSL_version Unload
+[2023-08-07 14:52:09.952][ERR] OpenSSL, Not All Function Loaded!
+[2023-08-07 14:52:09.952][INF] SSLTRANSAPI::PrintVersion, SSLeay_version info [OpenSSL 1.0.2t  10 Sep 2019]
+[2023-08-07 14:52:10.401][ERR] SSLTRANSAPI::IsAllAPILoaded, OpenSSL_version Unload
+[2023-08-07 14:52:10.401][ERR] OpenSSL, Not All Function Loaded!
+[2023-08-07 14:52:10.401][INF] SSLTRANSAPI::PrintVersion, SSLeay_version info [OpenSSL 1.0.2t  10 Sep 2019]
+[2023-08-07 14:52:10.407][INF] Login use RSA1024
+[2023-08-07 14:52:10.449][DBG] load full path[C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\HCNetSDK\HCNetSDKCom/HCVoiceTalk.dll] succ
+[2023-08-07 14:52:10.450][INF] AbilityAnalyze---Init-- start
+[2023-08-07 14:52:10.485][INF] The COM:VoiceTalk ver is 6.1.4.6, 2019_12_20.
+[2023-08-07 14:52:10.502][DBG] load full path[C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\HCNetSDK\HCNetSDKCom/HCGeneralCfgMgr.dll] succ
+[2023-08-07 14:52:10.508][INF] The COM:HCGeneralCfgMgr ver is 6.1.4.6, 2019_12_20.
+[2023-08-07 14:52:10.523][DBG] load full path[C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\HCNetSDK\HCNetSDKCom/HCPlayBack.dll] succ
+[2023-08-07 14:52:10.525][INF] The COM:HCPlayback ver is 6.1.4.6, 2019_12_20.
+[2023-08-07 14:52:10.540][DBG] load full path[C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\HCNetSDK\HCNetSDKCom/HCIndustry.dll] succ
+[2023-08-07 14:52:10.543][INF] The COM:HCIndustry ver is 6.1.4.6, 2019_12_20.
+[2023-08-07 14:52:10.557][DBG] load full path[C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\HCNetSDK\HCNetSDKCom/HCDisplay.dll] succ
+[2023-08-07 14:52:10.560][INF] The COM:HCDisplay ver is 6.1.4.6, 2019_12_20.
+[2023-08-07 14:52:10.572][DBG] load full path[C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\HCNetSDK\HCNetSDKCom/HCPreview.dll] succ
+[2023-08-07 14:52:10.573][INF] The COM:Preview ver is 6.1.4.6, 2019_12_20.
+[2023-08-07 14:52:10.584][DBG] load full path[C:\Users\LERA\Desktop\demo_sdk_hikvision_V3\demo_sdk_hikvision\bin\Debug\HCNetSDK\HCNetSDKCom/HCAlarm.dll] succ
+[2023-08-07 14:52:10.585][INF] The COM:HCAlarm ver is 6.1.4.6, 2019_12_20.
+[2023-08-07 14:52:10.586][DBG] CLongConfigSessionEx::start succ [userid:0][command:2562]
+[2023-08-07 14:52:10.587][ERR] Link_CreateLink, Start Failed, enumLinkType[0]
+[2023-08-07 14:52:10.725][DBG] callback [0]data len[36].
+[2023-08-07 14:52:10.725][DBG] callback status[1001].
+[2023-08-07 14:52:10.725][DBG] Senddata success Return Card[80].
+[2023-08-07 14:52:10.725][DBG] callback [0]data len[4].
+[2023-08-07 14:52:10.725][DBG] callback status[1000].
+[2023-08-07 14:52:10.725][INF] [CLongLinkCtrlPrivate::RecvThreadFunc] RecvThreadFunc EXIT, this=0x7c75428, linkid=9530d54
+[2023-08-07 14:52:10.741][ERR] CMemberMgrBase::FreeIndex, Invalid iIndex[-1]
+[2023-08-07 14:52:14.244][INF] COM_Logout[0][0]
+[2023-08-07 14:52:14.244][DBG] CUserMgr::UnRegisterHeartProxy[0]
+[2023-08-07 14:52:14.245][ERR] Link_CreateLink, Start Failed, enumLinkType[0]
+[2023-08-07 14:52:25.173][INF] Login dev 192.0.0.64:8000.
+[2023-08-07 14:52:25.173][ERR] Link_CreateLink, Start Failed, enumLinkType[0]
+[2023-08-07 14:52:25.175][INF] LogonDev1 in[192.0.0.64:8000]
+[2023-08-07 14:52:25.186][ERR] SSLTRANSAPI::IsAllAPILoaded, OpenSSL_version Unload
+[2023-08-07 14:52:25.186][ERR] OpenSSL, Not All Function Loaded!
+[2023-08-07 14:52:25.186][INF] SSLTRANSAPI::PrintVersion, SSLeay_version info [OpenSSL 1.0.2t  10 Sep 2019]
+[2023-08-07 14:52:25.193][INF] Login use RSA1024
+[2023-08-07 14:52:25.203][DBG] CLongConfigSessionEx::start succ [userid:1][command:2561]
+[2023-08-07 14:52:25.204][ERR] Link_CreateLink, Start Failed, enumLinkType[0]
+[2023-08-07 14:52:25.325][DBG] callback [0]data len[36].
+[2023-08-07 14:52:25.325][DBG] callback status[1001].
+[2023-08-07 14:52:25.325][DBG] Senddata success Return Card[80].
+[2023-08-07 14:52:25.325][DBG] callback [0]data len[4].
+[2023-08-07 14:52:25.325][DBG] callback status[1000].
+[2023-08-07 14:52:25.325][INF] [CLongLinkCtrlPrivate::RecvThreadFunc] RecvThreadFunc EXIT, this=0x7c7d82c, linkid=9531334
+[2023-08-07 14:52:25.326][INF] [1]CLongConfigSession::Stop in
+[2023-08-07 14:52:25.334][DBG] CLongConfigSessionEx::start succ [userid:1][command:2564]
+[2023-08-07 14:52:25.335][ERR] Link_CreateLink, Start Failed, enumLinkType[0]
+[2023-08-07 14:52:25.432][DBG] callback [2]data len[780].
+[2023-08-07 14:52:25.441][DBG] callback [0]data len[4].
+[2023-08-07 14:52:25.441][DBG] callback status[1000].
+[2023-08-07 14:52:25.441][INF] [CLongLinkCtrlPrivate::RecvThreadFunc] RecvThreadFunc EXIT, this=0x7c7d82c, linkid=9531334
+[2023-08-07 14:52:25.458][INF] [1]CLongConfigSession::Stop in
+[2023-08-07 14:52:25.458][INF] COM_Logout[1][0]
+[2023-08-07 14:52:25.458][DBG] CUserMgr::UnRegisterHeartProxy[1]
+[2023-08-07 14:52:25.459][ERR] Link_CreateLink, Start Failed, enumLinkType[0]
+[2023-08-07 14:52:25.476][INF] Login dev 192.0.0.65:8000.
+[2023-08-07 14:52:25.476][ERR] Link_CreateLink, Start Failed, enumLinkType[0]
+[2023-08-07 14:52:28.990][ERR] [192.0.0.65:8000]LogonDevice Link_CreateLink fail[7].
+[2023-08-07 14:52:28.990][ERR] CMemberMgrBase::AllocIndex2, MemberStart Failed, iIndex[0]
+[2023-08-07 14:52:36.453][INF] COM_Logout[-1][0]
