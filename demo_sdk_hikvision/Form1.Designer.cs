@@ -96,7 +96,6 @@
             this.btn_usuario_eliminar = new System.Windows.Forms.Button();
             this.timer_no_tarjeta = new System.Windows.Forms.Timer(this.components);
             this.timer_barra = new System.Windows.Forms.Timer(this.components);
-            this.toolTip_MessageNewDevice = new System.Windows.Forms.ToolTip(this.components);
             this.variablesBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.variablesBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.variablesBindingSource2 = new System.Windows.Forms.BindingSource(this.components);
@@ -1042,11 +1041,6 @@
             // 
             this.timer_barra.Enabled = true;
             // 
-            // toolTip_MessageNewDevice
-            // 
-            this.toolTip_MessageNewDevice.IsBalloon = true;
-            this.toolTip_MessageNewDevice.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Info;
-            // 
             // variablesBindingSource
             // 
             this.variablesBindingSource.DataSource = typeof(demo_sdk_hikvision.Variables);
@@ -1168,7 +1162,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn cedula_add;
         private System.Windows.Forms.DataGridViewTextBoxColumn fingerprint;
         private System.Windows.Forms.DataGridViewTextBoxColumn huella;
-        private System.Windows.Forms.ToolTip toolTip_MessageNewDevice;
         private System.Windows.Forms.CheckedListBox checkedListBox_Processes;
     }
 }

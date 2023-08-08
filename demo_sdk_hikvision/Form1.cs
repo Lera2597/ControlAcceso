@@ -1816,7 +1816,7 @@ namespace demo_sdk_hikvision
         {
             string message = $"Todos los empleados que registren huella en la base de datos," +
                 $" se ingresaran al dispositivo";
-            toolTip_MessageNewDevice.SetToolTip(btn_SincNewdevice, message);
+            //toolTip_MessageNewDevice.SetToolTip(btn_SincNewdevice, message);
         }
     }
 }
