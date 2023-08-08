@@ -1496,54 +1496,6 @@ namespace demo_sdk_hikvision
             }
             Cursor.Current = Cursors.Default;
         }
-
-        private void btn_SincNewdevice_Click(object sender, EventArgs e)
-        {
-            Cursor.Current = Cursors.WaitCursor;
-            if (id_tabla_dispositivos != "")
-                {
-                    string direccion_ip = data_dispositivos.CurrentRow.Cells["direccion_ip"].Value.ToString();
-                    int puerto = Convert.ToInt32(data_dispositivos.CurrentRow.Cells["puerto"].Value.ToString());
-                    string usuario = data_dispositivos.CurrentRow.Cells["usuario"].Value.ToString();
-                    string contrasena = MD5Crypto.Desencriptar(data_dispositivos.CurrentRow.Cells["contrasena"].Value.ToString());
-
-                    //Consultas.log("Inicia sincronización con " + direccion_ip); mostrar_log();
-                    //ConnectionBDPostgres.log("Inicia sincronización con " + direccion_ip, Obj_ConnectionPg.conex); mostrar_log();
-
-                    string conexion = Dispositivo.conectar(direccion_ip, puerto, usuario, contrasena);
-                    if (conexion == "OK")
-                    {
-                        string no_tarjeta = DataGridView_Usuarios.CurrentRow.Cells["no_tarjeta"].Value.ToString();
-                        string permiso_tarjeta = DataGridView_Usuarios.CurrentRow.Cells["permiso_tarjeta"].Value.ToString();
-                        string no_usuario = DataGridView_Usuarios.CurrentRow.Cells["no_usuario"].Value.ToString();
-                        string nombre = DataGridView_Usuarios.CurrentRow.Cells["nombre"].Value.ToString();
-                        url_imagen = DataGridView_Usuarios.CurrentRow.Cells["imagen"].Value.ToString();
-
-                        crear_usuario_sdk(no_tarjeta, permiso_tarjeta, no_usuario, nombre);
-                        enviar_rostro("1", no_tarjeta);
-                        //Consultas.log("Termina sincronización con " + direccion_ip); mostrar_log();
-                        //ConnectionBDPostgres.log("Termina sincronización con " + direccion_ip, Obj_ConnectionPg.conex); mostrar_log();
-                        id_tabla_dispositivos = "";
-                        id_tabla_usuarios = "";
-                    }
-                    else
-                    {
-                        //Consultas.log("Dispisitivo " + direccion_ip + " fuera de linea."); mostrar_log();
-                        //ConnectionBDPostgres.log("Dispisitivo " + direccion_ip + " fuera de linea.", Obj_ConnectionPg.conex); mostrar_log();
-                    }
-
-                    MessageBox.Show("Usuarios sincronizados a dispositivo.", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-            else
-            {
-                MessageBox.Show("Seleccione un dispositivo.", "", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-            }
-            
-            HCNetSDK_Tarjeta.NET_DVR_Logout(Variables.m_UserID);
-            Variables.m_UserID = -1;
-            Cursor.Current = Cursors.Default;
-        }
-
         private void btn_usuario_leer_tarjeta_Click(object sender, EventArgs e)
         {
             Cursor.Current = Cursors.WaitCursor;

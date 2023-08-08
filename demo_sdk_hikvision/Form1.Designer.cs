@@ -75,7 +75,6 @@
             this.txt_evento_tipo_secundario = new System.Windows.Forms.ComboBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.btn_SincNewdevice = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.txt_evento_fecha_fin = new System.Windows.Forms.DateTimePicker();
             this.txt_evento_fecha_inicio = new System.Windows.Forms.DateTimePicker();
@@ -564,7 +563,6 @@
             this.groupBox4.Controls.Add(this.txt_evento_tipo_secundario);
             this.groupBox4.Controls.Add(this.label5);
             this.groupBox4.Controls.Add(this.label4);
-            this.groupBox4.Controls.Add(this.btn_SincNewdevice);
             this.groupBox4.Controls.Add(this.label3);
             this.groupBox4.Controls.Add(this.txt_evento_fecha_fin);
             this.groupBox4.Controls.Add(this.txt_evento_fecha_inicio);
@@ -822,18 +820,6 @@
             this.label4.Size = new System.Drawing.Size(118, 19);
             this.label4.TabIndex = 70;
             this.label4.Text = "Tipo (principal)";
-            // 
-            // btn_SincNewdevice
-            // 
-            this.btn_SincNewdevice.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.btn_SincNewdevice.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold);
-            this.btn_SincNewdevice.Location = new System.Drawing.Point(136, -29);
-            this.btn_SincNewdevice.Name = "btn_SincNewdevice";
-            this.btn_SincNewdevice.Size = new System.Drawing.Size(265, 48);
-            this.btn_SincNewdevice.TabIndex = 68;
-            this.btn_SincNewdevice.Text = "Aplicar a dispositivo nuevo";
-            this.btn_SincNewdevice.UseVisualStyleBackColor = false;
-            this.btn_SincNewdevice.Click += new System.EventHandler(this.btn_SincNewdevice_Click);
             // 
             // label3
             // 
@@ -1136,7 +1122,6 @@
         private System.Windows.Forms.Button btn_disp_mant_abierto;
         private System.Windows.Forms.Button btn_disp_cerrar;
         private System.Windows.Forms.GroupBox group_log;
-        private System.Windows.Forms.Button btn_SincNewdevice;
         private System.Windows.Forms.Button btn_SincOnedevice;
         private System.Windows.Forms.Timer timer_no_tarjeta;
         private System.Windows.Forms.GroupBox groupBox2;
